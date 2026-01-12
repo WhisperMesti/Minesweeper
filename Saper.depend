@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1685908136 source:c:\users\barte\onedrive\dokumenty\# ib\computer science\saper\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<cwchar>
+	<future>
+
+1685904536 source:c:\users\barte\onedrive\dokumenty\# work\ib\computer science\saper\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<cstdlib>
+	<cwchar>
+	<future>
+
